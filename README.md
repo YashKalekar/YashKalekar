@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yash Kalekar
+# 👋 Hi, I'm Kalekar Yash
 
 I'm a Backend Developer focused on building reliable and scalable applications using **Python, FastAPI, REST APIs, and AWS**.
 
